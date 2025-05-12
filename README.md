@@ -1,5 +1,9 @@
 
 
+
+
+
+# Bitcoin-Price-Forecasting-with-Hybrid-LSTM-ARIMA-A-Data-Driven-Approach
 🪙 Bitcoin Price Analysis using HMM, Hybrid LSTM & ARIMA
 
 📌 Project Overview
@@ -53,7 +57,3 @@ The goal is to compare the accuracy of these models in forecasting Bitcoin price
    * Check stationarity using ADF test
    * Identify (p,d,q) using ACF/PACF plots
    * Forecast prices and compare metrics
-
-
-
-# Bitcoin-Price-Forecasting-with-Hybrid-LSTM-ARIMA-A-Data-Driven-Approach
